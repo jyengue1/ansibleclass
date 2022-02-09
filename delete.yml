@@ -1,0 +1,10 @@
+---
+
+- hosts: all
+  become: true
+  tasks: 
+
+  - name: Delete a file
+    file:
+      state: absent
+      path: /home/jyengue/Desktop/ansible.cfg

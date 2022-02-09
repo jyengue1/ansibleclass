@@ -3,12 +3,9 @@
 - hosts: all
   become: true
   tasks:
-
-    - name: update repository index
-      yum:
-        update_cache: yes
-
-    - name: install httpd package
-      yum:
-        name: httpd
-        state: latest
+      
+  - name: install httpd/apache package
+    package:
+      name: "{{ apache_package }}"
+      state: latest
+      update_cache: yes

@@ -1,0 +1,16 @@
+---
+
+- hosts: all
+  become: true
+  tasks:
+
+  - name: Copy a test file on all the servers
+    remove:
+      src:  ansible.cfg
+      dest: Desktop
+      owner: root
+      group: root
+      mode: 0644
+
+
+    

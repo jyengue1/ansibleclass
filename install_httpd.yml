@@ -6,6 +6,6 @@
       
   - name: install httpd/apache package
     package:
-      name: "{{ apache_package }}"
+      name: "{{ apache }}"
       state: latest
       update_cache: yes

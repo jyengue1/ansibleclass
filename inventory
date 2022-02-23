@@ -1,4 +1,4 @@
-192.168.1.202 apache_package=httpd
-192.168.1.175 apache_package=httpd
-192.168.1.25 apache_package=httpd
-192.168.1.180 apache_package=apache2
+192.168.1.202 apache=httpd
+192.168.1.203 apache=httpd
+192.168.1.204 apache=httpd
+192.168.1.180 apache=apache2

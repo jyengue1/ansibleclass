@@ -1,0 +1,11 @@
+---
+
+- hosts: all
+  become: true
+  tasks:
+
+  - name: patching
+    package:
+      name: "*"
+      state: latest
+      update_cache: yes

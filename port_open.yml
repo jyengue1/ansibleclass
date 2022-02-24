@@ -1,0 +1,24 @@
+---
+
+- hosts: all
+  become: true
+  tasks:
+
+  - name: enable port 80/tcp
+    firewalld:
+      port: 80/tcp
+      permanent: yes
+      state: enabled
+      immediate: true
+
+  - name: restart httpd
+    service: 
+      name: httpd
+      state: restarted
+
+  - name: Reload service NetworManager
+    service:
+      name: NetworkManager
+      state: reloaded
+
+ 

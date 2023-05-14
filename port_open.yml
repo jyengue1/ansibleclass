@@ -13,7 +13,7 @@
 
   - name: restart httpd
     service: 
-      name: httpd
+      name: apache
       state: restarted
 
   - name: Reload service NetworManager

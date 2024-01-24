@@ -6,13 +6,15 @@
 
   - name: enable port 80/tcp
     firewalld:
-      port: 80/tcp
+      port:
+        - 80/tcp
+        - 22/tcp
       permanent: yes
       state: enabled
       immediate: true
 
   - name: restart httpd
-    service: 
+    service:
       name: apache
       state: restarted
 
@@ -20,5 +22,3 @@
     service:
       name: NetworkManager
       state: reloaded
-
- 

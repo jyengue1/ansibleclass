@@ -1,0 +1,85 @@
+JOMACS CLOUD ENGINEERING COHORT (DEC. - FEB. 2024)
+
+ASSIGNMENTS AND PROJECTS
+
+NB: You are free to collaborate with your colleagues or use external resources to solve assignments and projects. The tutors will only provide extra guidance and clarity when needed, but they will not provide you with explicit answers or solutions; that is your burden as a trainee. Always remember, Google is your friend, and there is no greater university than YouTube.
+
+LINUX
+Finish all 34 levels of OverTheWire: Bandit (Linux commands game)
+https://overthewire.org/wargames/bandit/
+
+Create an account and complete all 34 scenarios on SadServers
+https://sadservers.com/scenarios
+
+Finish all the levels under CMD Challenge
+https://cmdchallenge.com/
+
+
+BASH SCRIPTING
+Complete the following: Linux and Bash challenges
+HackerRank: https://www.hackerrank.com/domains/shell
+Exercism: https://exercism.org/tracks/bash
+
+
+PYTHON
+Learn Python here:  https://www.w3schools.com/python/
+
+      5. Register and complete the FreeCodeCamp Legacy Curriculum in Python 
+ 	https://www.freecodecamp.org/learn/python-for-everybody/#python-for-everybody
+
+      6. Solve all challenges related to Python on HackerRank 
+ 	https://www.hackerrank.com/domains/python
+
+
+GIT & GITHUB
+Learn Git and GitHub
+Link: https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class
+
+Visualize Git commands here: 
+Link: https://git-school.github.io/visualizing-git/#free
+Link: https://onlywei.github.io/explain-git-with-d3/
+
+      7. Complete the Git exercises found here: 
+https://github.com/eficode-academy/git-katas?tab=readme-ov-file
+
+       8. Complete all the modules and collections under Github found in Microsoft Learn 
+https://learn.microsoft.com/en-us/training/github/
+
+
+AWS
+       9. Complete and get all eleven (11) free badges under the Badged Course section
+     10. Complete all eight (8) modules under the Prepare for Workplace section
+https://www.awseducate.com/student/s/content
+
+     11. Complete and achieve certification for the Solutions Architect - Knowledge Readiness Badge
+https://explore.skillbuilder.aws/learn/lp/1044/solutions-architect-knowledge-badge-readiness-path
+
+    12. Build and document at least ten (10) projects 
+https://aws.amazon.com/getting-started/hands-on/?nc2=h_ql_le_gs_t&getting-started-all.sort-by=item.additionalFields.content-latest-publish-date&getting-started-all.sort-order=desc&awsf.getting-started-category=*all
+
+
++BONUS PROJECTS AND CERTIFICATES (I AM AWESOME)
+Achieve all 14 free certifications from FreeCodeCamp’s Relational Database course
+https://www.freecodecamp.org/learn/relational-database/
+
+Complete all Github Learning Paths and achieve relevant badges and certifications from Microsoft Learn: https://learn.microsoft.com/en-us/training/browse/?products=github&terms=git&resource_type=learning%20path
+
+FastAPI: How to Develop, Test, and Deploy APIs
+https://www.freecodecamp.org/news/fastapi-quickstart/
+
+How to Deploy Next.js Apps to Github Pages
+https://www.freecodecamp.org/news/how-to-deploy-next-js-app-to-github-pages/
+
+Learn NGINX for Beginners
+https://www.freecodecamp.org/news/the-nginx-handbook/
+https://youtu.be/9t9Mp0BGnyI?si=FC6MyPZbI0rw-bkd
+
+How to Secure Your Web Server with Continuous Integration Using NGINX and CircleCI
+https://www.freecodecamp.org/news/secure-web-server-with-continuous-integration-using-nginx-and-circleci/
+
+Get into DevOps: The Masterclass
+https://www.releaseworksacademy.com/courses/the-devops-masterclass
+
+Get into DevOps: Best Practices for Docker with Jenkins
+https://www.releaseworksacademy.com/courses/best-practices-docker-jenkins
+

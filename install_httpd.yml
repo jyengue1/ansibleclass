@@ -8,4 +8,4 @@
     package:
       name: "{{ apache }}"
       state: latest
-      update_cache: yes
+

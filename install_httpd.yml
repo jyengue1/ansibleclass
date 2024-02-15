@@ -4,7 +4,7 @@
   become: true
   tasks:
       
-  - name: install httpd/apache package
+  - name: install htapache package
     package:
       name: "{{ apache }}"
       state: latest
